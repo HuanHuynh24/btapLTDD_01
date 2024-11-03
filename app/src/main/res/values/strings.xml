@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmsAndroid</string>
+    <string name="address_text">Viettel</string>
+    <string name="body_text">Quý khách đã sử dụng hết lưu lượng đã đăng ký</string>
+    <string name="time_text">02/11/2024</string>
+    <string name="ho_ten">Huỳnh Ngọc Huân</string>
+    <string name="ma_sinh_vien">22115053122319</string>
+</resources>
